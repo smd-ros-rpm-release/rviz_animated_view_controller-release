@@ -1,0 +1,23 @@
+ros-hydro-rviz-animated-view-controller (0.1.1-0quantal) quantal; urgency=high
+
+  * force package version
+  * add demo launch file
+  * update urls in package.xml
+  * minor style fix
+  * update plugin macro
+  * apply catkin_lint
+  * catkinized
+  * minor change
+  * separating...
+  * separating packages
+  * preparing for first release
+  * removes CameraPlacementTrajectory from everything
+  * removes CameraPlacementTrajectory
+  * fixes singularity; simplifies up-vector
+  * splits up msgs and plugin
+  * moving from visualization trunk
+  * Contributors: Adam Leeper, Sachin Chitta, aleeper
+
+ -- Adam Leeper <adamleeper@gmail.com>  Tue, 20 May 2014 07:00:00 -0000
+
+
